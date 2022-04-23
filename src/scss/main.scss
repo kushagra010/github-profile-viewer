@@ -1,0 +1,31 @@
+@import './abstracts/variables';
+@import './abstracts/mixins';
+
+@import './base/reset';
+
+.ellipsis-2 {
+    @include ellipsis(2);
+}
+
+.userInfo-link{
+    &:hover{
+        color: $blue-preset-1 !important;
+        text-decoration: underline;
+    }
+}
+
+.navbar-mobile-link{
+    display: flex;
+    align-items: center;
+    color: $black !important;
+}
+
+.item-fadeout{
+    animation: fadeout 1s linear forwards;
+}
+
+@keyframes fadeout {
+    0% { opacity: 1; }
+    50% { opacity: 0.5;}
+    100% { opacity: 0; }
+}

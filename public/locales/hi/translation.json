@@ -1,0 +1,20 @@
+{
+    "suggestions": "सुझाव",
+    "search": {
+        "placeholder": "खोज...",
+        "noMatchFound": "कोई मेल नहीं मिला",
+        "typeForSuggestions": "सुझावों के लिए टाइप करें..."
+    },
+    "logout": "लॉग आउट",
+    "profile": "प्रोफ़ाइल",
+    "pageNotFound": "पृष्ठ नहीं मिला",
+    "login": "लॉग इन करें",
+    "loginPage": {
+        "userName": "उपयोगकर्ता नाम",
+        "token": "टोकन",
+        "signIn": "साइन इन करें"
+    },
+    "hindi": "हिंदी",
+    "english": "अंग्रेज़ी",
+    "language": "भाषा"
+}

@@ -1,0 +1,14 @@
+export const tokenConstant = 'token';
+export const publicConstant = 'public';
+export const privateConstant = 'private';
+export const userDataConstant = 'userData';
+export const mobileMenuIdConstant = 'primary-search-account-menu-mobile';
+export const enterKey = 'Enter';
+export const xs = 'xs';
+export const sm = 'sm';
+export const md = 'md';
+export const lg = 'lg';
+export const xl = 'xl';
+export const usersPerPage = 100;
+export const minGithubId = 1;
+export const maxGithubId = 1000000;
