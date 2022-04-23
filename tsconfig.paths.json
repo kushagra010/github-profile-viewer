@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "Src/*": ["./src/*"],
+            "Images/*": ["./src/assets/images/*"],
+            "Redux/*": ["./src/redux/*"],
+            "Constants/*": ["./src/constants/*"],
+            "Components/*": ["./src/app/components/*"],
+            "Containers/*": ["./src/app/containers/*"],
+            "Styles/*": ["./src/scss/*"],
+            "CustomHOC/*": ["./src/customHOC/*"],
+            "Utility/*": ["./src/utility/*"],
+        }
+    }
+}

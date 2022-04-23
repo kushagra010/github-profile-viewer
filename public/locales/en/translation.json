@@ -1,0 +1,20 @@
+{
+    "suggestions": "SUGGESTIONS",
+    "search": {
+        "placeholder": "Search...",
+        "noMatchFound": "NO MATCH FOUND",
+        "typeForSuggestions": "Type for suggestions..."
+    },
+    "logout": "LOGOUT",
+    "profile": "PROFILE",
+    "pageNotFound": "PAGE NOT FOUND",
+    "login": "LOGIN",
+    "loginPage": {
+        "userName": "Username",
+        "token": "Token",
+        "signIn": "Sign In"
+    },
+    "hindi": "Hindi",
+    "english": "English",
+    "language": "LANGUAGE"
+}
